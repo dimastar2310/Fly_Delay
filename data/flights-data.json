@@ -1,0 +1,21 @@
+{
+  "flights": [
+    { "number": 216, "origin": "TLV", "destination": "BER" }, 
+    { "number": 644, "origin": "LGW", "destination": "LAX" },
+    { "number": 362, "origin": "LGW", "destination": "TLV" },
+    { "number": 423, "origin": "PEK", "destination": "DXB" }, 
+    { "number": 883, "origin": "BER", "destination": "TLV" },
+    { "number": 987, "origin": "PEK", "destination": "LGW" },
+    { "number": 172, "origin": "LGW", "destination": "TLV" },
+    { "number": 508, "origin": "BER", "destination": "BCN" },
+    { "number": 202, "origin": "BOM", "destination": "SYD" },
+    { "number": 997, "origin": "BER", "destination": "BCN" },
+    { "number": 702, "origin": "LGW", "destination": "SYD" },
+    { "number": 512, "origin": "SYD", "destination": "BOM" },
+    { "number": 645, "origin": "LGW", "destination": "BCN" },
+    { "number": 278, "origin": "BCN", "destination": "BER" },
+    { "number": 532, "origin": "TLV", "destination": "BOM" },
+    { "number": 552, "origin": "TLV", "destination": "PEK" },
+    { "number": 307, "origin": "PEK", "destination": "LAX" }
+  ]
+}
